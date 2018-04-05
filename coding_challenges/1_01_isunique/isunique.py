@@ -11,7 +11,7 @@ def is_unique(input_string):
     Parameters
     ----------
     input_string : str
-        Input string consisting of English alphabets
+        Input string consisting of English alphabets.
 
     Returns
     -------

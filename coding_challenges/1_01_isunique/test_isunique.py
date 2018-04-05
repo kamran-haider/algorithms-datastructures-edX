@@ -9,5 +9,3 @@ def test_nonunique_string():
 
 def test_unique_string():
     assert is_unique("pytorch")
-
-    
